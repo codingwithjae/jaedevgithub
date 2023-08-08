@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front End Web Developer in the making. Learning HTML, CSS, and JavaScript, along with modern frameworks for web development.
+Front End Web Developer in the making. Learning HTML, CSS, and JavaScript. Currently learning Tailwind CSS and React with Vite and Next.JS. 
 
 
 ## 🌐 Socials:
