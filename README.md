@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front End Web Developer in the making. Learning HTML, CSS, and JavaScript. Currently aspiring to become a Full Stack Developer. 
+Front End Web Developer in the making. Learning HTML, CSS, JavaScript and React. Currently aspiring to become a Full Stack Developer. 
 
 
 ## 🌐 Socials:
